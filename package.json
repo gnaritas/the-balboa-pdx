@@ -1,0 +1,8 @@
+{
+  "name": "the-balboa-pdx",
+  "version": "1.0.0",
+  "description": "The Balboa — bar-forward restaurant with a classic American menu, 1134 NW Everett St, Pearl District, Portland OR (static site + node form relay)",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
